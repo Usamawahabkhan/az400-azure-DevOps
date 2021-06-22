@@ -12,3 +12,7 @@ YAML
 💗 Supports Container Jobs, which is quite important to some teams
 😐 Azure DevOps does have assistant to help building a YAML file, so it’s not as daunting as it first looks for inexperienced users
 👎 Not as mature as the Classic UI — some features are still on the roadmap
+
+
+
+Learn more https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/
